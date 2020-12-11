@@ -1,3 +1,14 @@
+bin/
+etc/
+share/
+*.log
+*.tar
+*.tar.gz
+*.zip
+bert_emo_finetuned/
+aclImdb/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
